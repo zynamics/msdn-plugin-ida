@@ -48,7 +48,6 @@ for ea in Functions(0, 0xFFFFFFFF):
 
     if functions_map.has_key(name):
         function = functions_map[name];
-        print "comparing %s to %s" % (function.dll.lower(), library)
         if function.dll.lower() == library:
             description = function.description.encode("UTF-8")
             idaapi.set_func_cmt(function_object, "\n".join(wrapper.wrap(description)), True)
