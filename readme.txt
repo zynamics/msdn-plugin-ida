@@ -1,4 +1,4 @@
-zynamics ida-msdn - Copyright 2010
+zynamics ida-msdn 1.1 - Copyright 2010
 For updates please check http://github.com/zynamics/msdn-plugin-ida
 
 Using the zynamics ida-msdn IDA Pro plugin you can import Windows API
@@ -17,3 +17,10 @@ documentation from the MSDN into your IDA Pro IDB files.
 
 The MSDN crawler is licensed under the GPL 2.0 license. Please see gpl.txt for
 more information.
+
+3. Contributions
+
+Thanks to the following people who have contributed code and ideas to make
+ida-msdn better:
+
+Mario Vilas
