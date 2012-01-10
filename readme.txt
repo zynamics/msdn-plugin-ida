@@ -1,3 +1,11 @@
+zynamics MSDN IDA Pro Plugin has moved to Google Code
+=====================================================
+
+This repository has moved to Google Code:
+http://code.google.com/p/zynamics/source/checkout?repo=msdn-ida-plugin
+
+
+
 zynamics ida-msdn 1.1 - Copyright 2010
 For updates please check http://github.com/zynamics/msdn-plugin-ida
 
